@@ -1,4 +1,4 @@
-# Project OS for Claude Code and Codex
+çok başarılı bir çalışma olmuş# Project OS for Claude Code and Codex
 
 A project structure with task files, clear responsibilities and a separate QA step. Install it for Claude Code, Codex or both from this repository.
 
